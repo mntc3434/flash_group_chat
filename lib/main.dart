@@ -28,3 +28,4 @@ class FlashChat extends StatelessWidget {
     );
   }
 }
+.....
