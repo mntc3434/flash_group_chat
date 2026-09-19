@@ -1,4 +1,4 @@
-{ ..
+{ .
     "name": "flash_chat",
     "short_name": "flash_chat",
     "start_url": ".",
